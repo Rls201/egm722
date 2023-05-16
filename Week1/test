@@ -1,0 +1,6 @@
+def myString():
+    print("Hello World!")
+
+myString()
+
+
